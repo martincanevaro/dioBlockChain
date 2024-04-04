@@ -1,0 +1,22 @@
+
+# Ignorar la carpeta node_modules y su contenido
+node_modules/
+
+# Ignorar archivos de registro de errores
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de configuración de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de configuración de WebStorm
+.idea/
+.history
+
+# Ignorar archivos de construcción
+dist/
+build/
+
+# Ignorar archivos de credenciales y configuración sensible
+config.js
+.env
